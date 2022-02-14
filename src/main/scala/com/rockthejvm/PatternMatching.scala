@@ -1,5 +1,5 @@
 package com.rockthejvm
 
-object PatternMatching {
+object PatternMatching extends App{
 
 }
