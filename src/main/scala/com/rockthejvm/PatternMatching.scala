@@ -41,6 +41,8 @@ object PatternMatching extends App{
     case _ => "unknown list"
   }
 
+  println(listDescription)
+
   //if PM doesnt match anything, it will throw a MatchError
   //PM will try all cases in sequence
 
